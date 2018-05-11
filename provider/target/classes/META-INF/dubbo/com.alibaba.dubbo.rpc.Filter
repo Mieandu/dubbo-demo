@@ -1,0 +1,2 @@
+dubboConsumeContextFilter=com.morning.star.store.dubbo.DubboConsumeContextFilter
+dubboProviderContextFilter=com.morning.star.store.dubbo.DubboProviderContextFilter
