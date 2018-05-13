@@ -1,0 +1,2 @@
+# dubbo-demo
+multicast registry
